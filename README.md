@@ -1,8 +1,8 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Sharing in Sufferings, Sharing in Comfort
+## 2 Corinthians 1:3-7
 
-[![Build status](https://github.com/sermons/reveal-skel/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/reveal-skel/actions/workflows/build.yml)
-![Dependency check](https://img.shields.io/librariesio/github/sermons/reveal-skel)
+[![Build status](https://github.com/sermons/comfort/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/comfort/actions/workflows/build.yml)
+![Dependency check](https://img.shields.io/librariesio/github/sermons/comfort)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
